@@ -16,4 +16,6 @@ if [ $MODEL == "linear" ];then
 	python3 src/predict.py
 elif [ $MODEL == "logistic" ]; then 
 	python3 src/logistic_predict.py
+elif [ $MODEL == "dataset" ]; then
+	python3 src/dataset.py 
 fi 
