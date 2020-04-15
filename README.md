@@ -1,7 +1,7 @@
 ### Project Description
-
-### Inspiration
 In the context of the global COVID-19 pandemic, Kaggle has launched several challenges in order to provide useful insights that may answer some of the open scientific questions about the virus. This is the case of the COVID19 Global Forecasting, in which participants are encouraged to fit worldwide data in order to predict the pandemic evolution, hopefully helping to determine which factors impact the transmission behavior of COVID-19.
+### Inspiration
+
 
 
 ### Acknowledgments
