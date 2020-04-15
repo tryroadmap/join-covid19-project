@@ -14,7 +14,10 @@ TBD
 
 #### Technology Stack
 AWS SageMaker
-TBD
+
+./run.sh tendency
+./run.sh linear Spain(Germany, UK, Singapore...)
+./run.sh logistic Spain(Germany, UK, Singapore...)
 
 #### Data Science Manager
 TBD
