@@ -16,7 +16,9 @@ TBD
 AWS SageMaker
 
 ./run.sh tendency
+
 ./run.sh linear Spain(Germany, UK, Singapore...)
+
 ./run.sh logistic Spain(Germany, UK, Singapore...)
 
 #### Data Science Manager
