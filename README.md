@@ -15,10 +15,14 @@ TBD
 #### Technology Stack
 AWS SageMaker
 
+The global tendency graph excluding China and in China: 
 ./run.sh tendency
 
+The forcast graph of a certain country by using linear regression:
 ./run.sh linear Spain(Germany, UK, Singapore...)
 
+
+The forcast graph of a certain country by using logistic regression:
 ./run.sh logistic Spain(Germany, UK, Singapore...)
 
 #### Data Science Manager
