@@ -64,16 +64,7 @@ def main():
 
 	logistic_regression.plot_real_vs_prediction_country_fatalities(data, train_data, country_name, 39, dates_list)
 
-	# ts = time.time()
-
-	# Inputs
-	# country_name = "Italy"
-	# day_start = 35 
-	# lag_size = 30
-
-	# data = lin_reg_with_lags_country(all_data, country_name, day_start, lag_size, country_dict)
-	# plot_real_vs_prediction_country(data, train, country_name, 39, dates_list)
-	# plot_real_vs_prediction_country_fatalities(data, train, country_name, 39, dates_list)
+	
 
 
 
