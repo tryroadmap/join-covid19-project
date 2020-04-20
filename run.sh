@@ -18,4 +18,6 @@ elif [ $MODEL == "logistic" ]; then
 	python3 src/logistic_predict.py
 elif [ $MODEL == "dataset" ]; then
 	python3 src/dataset.py 
+elif [ $MODEL == "tendency" ]; then
+	python3 src/tendency.py 
 fi 
