@@ -37,9 +37,9 @@ Feature engineering with SageMaker Notebooks
 
 
 #### Technology Stack
-AWS SageMaker, etc etc
+AWS SageMaker
 
 
 
 #### Data Science Manager
-Hasan
+Tiffany
